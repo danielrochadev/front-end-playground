@@ -4,13 +4,14 @@ Este repositório contém exemplos de layouts e interfaces que foram implementad
 
 ## Tecnologias
 
-As seguintes tecnologias foram utilizadas nestes projeto:
+As seguintes tecnologias foram utilizadas nos projetos:
 
 - HTML
 - CSS
 - Sass
 - JavaScript
 - WordPress
+- Prismic CMS
 - React
 - Next.js
 
