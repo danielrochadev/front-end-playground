@@ -4,7 +4,7 @@ Este repositório contém exemplos de layouts e interfaces que foram implementad
 
 ## Tecnologias
 
-As seguintes tecnologias foram utilizadas neste projeto:
+As seguintes tecnologias foram utilizadas nestes projeto:
 
 - HTML
 - CSS
